@@ -113,3 +113,5 @@ exclude:
   - README.md
   - CNAME
   - package.json
+
+theme: jekyll-theme-cayman
